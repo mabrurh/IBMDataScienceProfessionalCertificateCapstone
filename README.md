@@ -1,4 +1,3 @@
-# IBMDataScienceProfessionalCertificateCapstone
 # SpaceX Data Analysis and Visualization
 
 ## Description
