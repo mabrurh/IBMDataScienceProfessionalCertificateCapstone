@@ -1,7 +1,7 @@
 # SpaceX Data Analysis and Visualization
 
 ## Description
-This repository contains various Jupyter Notebooks and a Dash application focused on the analysis and visualization of SpaceX launch data. The files cover different aspects including data collection, data wrangling, exploratory data analysis (EDA), machine learning predictions, and creating interactive dashboards.
+This repository contains various Jupyter Notebooks and a Dash application focused on the analysis and visualization of SpaceX launch data. The files cover different aspects including data collection, data wrangling, exploratory data analysis (EDA), machine learning predictions, and creating interactive dashboards. The repository can be found at this link: https://github.com/mabrurh/IBMDataScienceProfessionalCertificateCapstone
 
 ## Contents
 
